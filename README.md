@@ -1,1 +1,1 @@
-Some java cheat sheets for my personal use - don't look here, there's nothing to see :)
+Some java cheat sheets for my personal use - there's nothing interesting here.
