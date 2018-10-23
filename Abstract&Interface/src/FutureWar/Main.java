@@ -1,7 +1,9 @@
-import WarOfRobots.HumanKiller;
-import WarOfRobots.Robot;
-import WarOfTanks.TankRudy102;
-import Weapon.Gun;
+package FutureWar;
+
+import FutureWar.WarOfRobots.HumanKiller;
+import FutureWar.WarOfRobots.Robot;
+import FutureWar.WarOfTanks.TankRudy102;
+import FutureWar.Weapon.Gun;
 
 public class Main {
 

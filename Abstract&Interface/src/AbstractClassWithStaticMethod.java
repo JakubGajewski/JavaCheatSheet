@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+public abstract class AbstractClassWithStaticMethod {
 
-public class AbstractClassWithStaticMethod {
+    static void soutSomething() {
+        System.out.println("Something!!");
+    }
 }

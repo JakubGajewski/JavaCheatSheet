@@ -1,5 +1,5 @@
-package WarOfTanks;
-import Weapon.Gun;
+package FutureWar.WarOfTanks;
+import FutureWar.Weapon.Gun;
 
 public class TankRudy102 implements Gun {
 

@@ -1,4 +1,4 @@
-package Weapon;
+package FutureWar.Weapon;
 
 public interface Gun {
     public static final double CALIBRE = 0.44;

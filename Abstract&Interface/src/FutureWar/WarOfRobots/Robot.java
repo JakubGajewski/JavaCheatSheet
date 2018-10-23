@@ -1,6 +1,6 @@
-package WarOfRobots;
+package FutureWar.WarOfRobots;
 
-import Weapon.Gun;
+import FutureWar.Weapon.Gun;
 
 public abstract class Robot {
 

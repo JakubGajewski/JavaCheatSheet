@@ -1,5 +1,5 @@
-package WarOfRobots;
-import Weapon.Gun;
+package FutureWar.WarOfRobots;
+import FutureWar.Weapon.Gun;
 
 public class HumanKiller extends Robot implements Gun {
 
